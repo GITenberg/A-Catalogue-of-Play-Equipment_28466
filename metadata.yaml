@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33349'
     url: http://www.gutenberg.org/2009/agents/33349
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28466#A-Catalogue-of-Play-Equipment
 gutenberg_bookshelf: Education
 gutenberg_issued: '2009-04-01'
 gutenberg_type: Text
